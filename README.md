@@ -1,7 +1,7 @@
 ### Hi there 👋
 <!--
 **nianszmb/nianszmb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src="https://github-readme-stats.vercel.app/api?username=tjsky&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" /\>
+
 
 Here are some ideas to get you started:
 
@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 [![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-
+<img src="https://github-readme-stats.vercel.app/api?username=tjsky&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" /\>
